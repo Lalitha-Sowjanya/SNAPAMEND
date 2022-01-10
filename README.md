@@ -1,2 +1,2 @@
 # SNAPBOT
-SNAPBOT is all about editing pictures using python code
+SNAPBOT is a Python based picture editing GUI application build using open cv, os and tkinter...
