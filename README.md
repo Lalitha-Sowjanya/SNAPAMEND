@@ -1,1 +1,3 @@
 SNAPAMEND is a Python based picture editing GUI application build using open cv, matplotlib and tkinter...
+![WhatsApp Image 2022-01-29 at 1 46 37 AM (1)](https://user-images.githubusercontent.com/97443640/151985809-4867bb15-6569-4458-9094-1892995f8853.jpeg)
+
